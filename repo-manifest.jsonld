@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pypa/distutils/commit/3ed42426ce6f41e9d07dc63f3315d85f19e25618",
       "git:hexsha": "3ed42426ce6f41e9d07dc63f3315d85f19e25618",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
